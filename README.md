@@ -1,10 +1,8 @@
-# detection-of-fake-news
+# Detection of Fake News
 Determine whether a headline is real or fake news. 
 Implement a Naive Bayes classifier and verify its performance on A Million News Headlines dataset. 
 
 A custom implementation of a Naive Bayes Classifier written from scratch in Python 3.
-
-[![Bayes Theorem](bayes-theorem.png)](http://www.saedsayad.com/naive_bayesian.htm)
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier):
 
